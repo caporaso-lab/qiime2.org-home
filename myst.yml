@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 57bf44f9-5500-40b2-a4e6-2c73271bffa3
+  github: https://github.com/qiime2
+site:
+  template: article-theme
+  title: qiime2.org
+  options:
+    favicon: images/qiime2-favicon-256.png
+    logo: images/qiime2.svg
+  nav: []
+  actions:
+    - title: Forum
+      url: https://forum.qiime2.org
+  domains: [qiime2.org]
